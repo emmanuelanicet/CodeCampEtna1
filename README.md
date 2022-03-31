@@ -1,6 +1,6 @@
 # Introduction 
 
-Défi lancer par notre école, qui consiste à créer un système émargement via nos cartes. 
+Défi lancé par notre école, qui consiste à créer un système émargement via nos cartes. 
 
 ## QR-code parse les donées 
 
