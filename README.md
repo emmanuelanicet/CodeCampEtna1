@@ -1,8 +1,13 @@
 # Introduction 
 
-Défi lancé par notre école, qui consiste à créer un système émargement via nos cartes. 
+Défi lancé par notre école, qui consiste à créer un système d'émargement via nos cartes. 
 
-## QR-code parse les donées 
+## Installation du projet 
+
+Après avoir recupéré le projet via :
+```
+git clone
+```
 
 Installation d'expo : 
 ```
